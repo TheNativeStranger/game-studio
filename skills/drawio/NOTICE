@@ -1,0 +1,2 @@
+SKILL.md is taken from jgraph/drawio-mcp (plugins/claude-code/skills/drawio), Apache License 2.0.
+Changes: a local-only rule was added at the top and the description was shortened. The hosted MCP server of the original plugin is not included.

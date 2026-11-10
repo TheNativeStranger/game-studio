@@ -1,0 +1,17 @@
+{
+  "name": "game-studio-local",
+  "owner": {
+    "name": "TheNativeStranger"
+  },
+  "metadata": {
+    "description": "Private local marketplace."
+  },
+  "plugins": [
+    {
+      "name": "game-studio",
+      "source": "./",
+      "version": "0.3.0",
+      "description": "Private game studio software team."
+    }
+  ]
+}

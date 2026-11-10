@@ -1,0 +1,8 @@
+{
+  "name": "game-studio",
+  "version": "0.3.0",
+  "description": "Private full game studio agent team led by a Studio Director: design, code, Blender, Canva, ElevenLabs, QA and release.",
+  "author": {
+    "name": "TheNativeStranger"
+  }
+}
